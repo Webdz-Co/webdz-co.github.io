@@ -1,12 +1,13 @@
 @import "compass";
 @import "partials/normalize";
 
-/* need mixin for background-color, padding, border-radius */
+// need mixin for background-color, padding, border-radius
 
 * { box-sizing: border-box; }
 
 html {
-  max-width: 1400px; /*makes the auto-center margin from body stop. margin continues to expand on right*/
+  max-width: 1400px; /*makes the auto-center margin from body stop.
+  margin continues to expand on right*/
 }
 
 body {

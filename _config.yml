@@ -3,4 +3,4 @@ description:    Web Design and Development Tidbits
 
 markdown:   kramdown
 
-exclude: [sass]
+exclude: [sass, config.rb]
